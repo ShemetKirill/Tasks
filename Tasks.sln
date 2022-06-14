@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplesOf3Or5", "MultiplesOf3Or5\MultiplesOf3Or5.csproj", "{8B2C46A7-F069-415C-A5BE-8882F635EB2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryAddition", "BinaryAddition\BinaryAddition.csproj", "{36004B86-AC0E-44E6-BECE-3AFE193CE0C7}"
+
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +21,7 @@ Global
 		{36004B86-AC0E-44E6-BECE-3AFE193CE0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36004B86-AC0E-44E6-BECE-3AFE193CE0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36004B86-AC0E-44E6-BECE-3AFE193CE0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
